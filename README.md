@@ -65,10 +65,16 @@ Motto: "Learn what makes money 💰"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-reynas.vercel.app/api?username=ReySa18&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=ReySa18&theme=midnight-purple&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+<a href="https://github.com/ReySa18">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ReySa18&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
+</a>
+<a href="https://github.com/ReySa18">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ReySa18&theme=midnight-purple&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+</a>
 
-<img width="40%" src="https://github-readme-stats-reynas.vercel.app/api/top-langs/?username=ReySa18&layout=compact&theme=midnight-purple&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=8b949e" />
+a href="https://github.com/ReySa18">
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReySa18&layout=compact&theme=midnight-purple&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=8b949e" />
+</a>
 
 </div>
 
@@ -78,7 +84,9 @@ Motto: "Learn what makes money 💰"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ReySa18&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ReySa18&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" alt="trophy" />
+</a>
 
 </div>
 
@@ -97,7 +105,7 @@ Motto: "Learn what makes money 💰"
    │   Ternyata tida                 │
    │                                 │
    │              — ReySa18 🎭       │
-   └─────────────────────────────────┘
+   └───────────���─────────────────────┘
 ```
 
 </div>
