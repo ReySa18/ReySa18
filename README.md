@@ -65,16 +65,10 @@ Motto: "Learn what makes money 💰"
 
 <div align="center">
 
-<a href="https://github.com/ReySa18">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ReySa18&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
-</a>
-<a href="https://github.com/ReySa18">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ReySa18&theme=midnight-purple&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
-</a>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ReySa18&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=ReySa18&theme=midnight-purple&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
-a href="https://github.com/ReySa18">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReySa18&layout=compact&theme=midnight-purple&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=8b949e" />
-</a>
+<img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReySa18&layout=compact&theme=midnight-purple&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=8b949e" />
 
 </div>
 
@@ -84,9 +78,11 @@ a href="https://github.com/ReySa18">
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReySa18&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" alt="trophy" />
-</a>
+![Stars](https://img.shields.io/badge/⭐_Total_Stars-0-58a6ff?style=for-the-badge&labelColor=0d1117)
+![Commits](https://img.shields.io/badge/🔥_Total_Commits-133-58a6ff?style=for-the-badge&labelColor=0d1117)
+![PRs](https://img.shields.io/badge/🔀_Pull_Requests-1-58a6ff?style=for-the-badge&labelColor=0d1117)
+![Issues](https://img.shields.io/badge/❗_Issues-0-58a6ff?style=for-the-badge&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/📦_Repositories-10+-58a6ff?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -105,7 +101,7 @@ a href="https://github.com/ReySa18">
    │   Ternyata tida                 │
    │                                 │
    │              — ReySa18 🎭       │
-   └───────────���─────────────────────┘
+   └─────────────────────────────────┘
 ```
 
 </div>
