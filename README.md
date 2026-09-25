@@ -114,7 +114,7 @@ Motto: "Learn what makes money 💰"
 
 [![Instagram](https://img.shields.io/badge/@reyabcdhl__-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/reyabcdhl_)
 [![LinkedIn](https://img.shields.io/badge/Reymondo%20Saputra-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/reymondosaputra)
-[![Gmail](https://img.shields.io/badge/simbolon.reymondo1@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:simbolon.reymondo1@gmail.com)
+[![Gmail](https://img.shields.io/badge/contact.reymondosaputras@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contact.reymondosaputras@gmail.com)
 
 </div>
 
